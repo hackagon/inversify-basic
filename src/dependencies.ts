@@ -1,3 +1,6 @@
+import { injectable } from 'inversify';
+
+@injectable()
 export class Person {
   private readonly name: string = "Hackagon";
 
@@ -6,6 +9,7 @@ export class Person {
   }
 }
 
+@injectable()
 export class Animal {
   private readonly name: string = "Husky";
 

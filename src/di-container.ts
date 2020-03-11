@@ -5,3 +5,5 @@ const DIContainer = new Container();
 
 DIContainer.bind<Person>(Person).toSelf();
 DIContainer.bind<Animal>(Animal).toSelf();
+
+export default DIContainer;

@@ -4,10 +4,7 @@ A powerful and lightweight inversion of control container for JavaScript & Node.
 ## Philosophy
 InversifyJS has been developed with 4 main goals:
 
-Allow JavaScript developers to write code that adheres to the SOLID principles.
-
-Facilitate and encourage the adherence to the best OOP and IoC practices.
-
-Add as little runtime overhead as possible.
-
-Provide a state of the art development experience.
+1. Allow JavaScript developers to write code that adheres to the SOLID principles.
+2. Facilitate and encourage the adherence to the best OOP and IoC practices.
+3. Add as little runtime overhead as possible.
+4. Provide a state of the art development experience.
